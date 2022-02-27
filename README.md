@@ -19,11 +19,19 @@ THEN I am presented with a responsive layout that adapts to my viewport
 # Comments
 I left # as a placeholder for future projects i'll be adding in the grid section.
 
-# Website Link
-
+# Website URL
+https://jelffryo.github.io/My-Portfolio/
 
 # Screenshot 
 https://imgur.com/a/g8mX2bI  
+
+# GitHub Repository URL
+https://github.com/JelffryO/My-Portfolio
+
+
+
+
+
 
 
 
